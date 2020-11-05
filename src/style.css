@@ -1,36 +1,29 @@
 body {
   margin: 0;
-  margin-top: -60px;
   background-color: rgb(0, 0,0);
-}
-
-.all {
-  margin: 20px;
-}
-
-.blocks {
-  width: 350px;
-  margin-bottom: 40px;
-}
-
-.block {
-  padding: 10px;
-  border: 1px solid rgb(231, 85, 81);
-}
-
-.blue {
-  background: rgb(48, 141, 192);
-}
-
-.yellow {
-  background-color: rgb(253, 160, 5);
-}
-
-.grey {
-  background-color: rgb(221, 221, 221);
 }
 
 .text {
   margin: 0;
-  width: 280px;
+}
+
+.blue {
+  width: 328px;
+  padding: 10px;
+  margin: 20px;
+  margin-bottom: 40px;
+  background: rgb(48, 141, 192);
+  border: 1px solid rgb(231, 85, 81);
+}
+
+.yellow {
+  padding: 10px;
+  background-color: rgb(253, 160, 5);
+  border: 1px solid rgb(231, 85, 81);
+}
+
+.grey {
+  padding: 10px;
+  background-color: rgb(221, 221, 221);
+  border: 1px solid rgb(231, 85, 81);
 }
